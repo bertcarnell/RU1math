@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Seasons>
+	<Season Num="1">
+		<Players>
+			<GroupA>
+				<Player>Adam</Player>
+				<Player>Chris S</Player>
+				<Player>Chris T</Player>
+				<Player>Dillan</Player>
+				<Player>Dre</Player>
+				<Player>Ethan</Player>
+				<Player>John</Player>
+				<Player>Joey</Player>
+				<Player>Ryan</Player>
+				<Player>Wesley</Player>
+			</GroupA>
+			<GroupB>
+				<Player>Amber</Player>
+				<Player>Ashleigh</Player>
+				<Player>Brittany</Player>
+				<Player>Coleysia</Player>
+				<Player>Jacy</Player>
+				<Player>Jessica</Player>
+				<Player>Kayla</Player>
+				<Player>Paige</Player>
+				<Player>Shanley</Player>
+				<Player>Simone</Player>
+			</GroupB>
+		</Players>
+		<Episodes>
+			<Episode Num="1">
+				<Truths>
+					<Truth A="Chris T" B="Shanley" Match="false"/>
+				</Truths>
+				<Ceremony Correct="2">
+					<Pair A="Adam" B="Brittany"/>
+					<Pair A="Chris S" B="Ashleigh"/>
+					<Pair A="Chris T" B="Jessica"/>
+					<Pair A="Dillan" B="Coleysia"/>
+					<Pair A="Dre" B="Jacy"/>
+					<Pair A="Ethan" B="Shanley"/>
+					<Pair A="John" B="Simone"/>
+					<Pair A="Joey" B="Paige"/>
+					<Pair A="Ryan" B="Amber"/>
+					<Pair A="Wesley" B="Kayla"/>
+				</Ceremony>
+			</Episode>
+			<Episode Num="2">
+				<Truths>
+					<Truth A="Ethan" B="Jessica" Match="false"/>
+				</Truths>
+				<Ceremony Correct="4">
+					<Pair A="Adam" B="Shanley"/>
+					<Pair A="Chris S" B="Simone"/>
+					<Pair A="Chris T" B="Paige"/>
+					<Pair A="Dillan" B="Jessica"/>
+					<Pair A="Dre" B="Ashleigh"/>
+					<Pair A="Ethan" B="Amber"/>
+					<Pair A="John" B="Jacy"/>
+					<Pair A="Joey" B="Brittany"/>
+					<Pair A="Ryan" B="Kayla"/>
+					<Pair A="Wesley" B="Coleysia"/>
+				</Ceremony>
+			</Episode>
+			<Episode Num="3">
+				<Truths>
+					<Truth A="John" B="Simone" Match="false"/>
+				</Truths>
+				<Ceremony Correct="2">
+					<Pair A="Adam" B="Brittany"/>
+					<Pair A="Chris S" B="Paige"/>
+					<Pair A="Chris T" B="Simone"/>
+					<Pair A="Dillan" B="Coleysia"/>
+					<Pair A="Dre" B="Ashleigh"/>
+					<Pair A="Ethan" B="Amber"/>
+					<Pair A="John" B="Jessica"/>
+					<Pair A="Joey" B="Shanley"/>
+					<Pair A="Ryan" B="Kayla"/>
+					<Pair A="Wesley" B="Jacy"/>
+				</Ceremony>
+			</Episode>
+		</Episodes>
+	</Season>
+	<Season Num="2">
+		<Players>
+			<GroupA>
+				<Player>Alex</Player>
+				<Player>Anthony</Player>
+				<Player>Brandon</Player>
+				<Player>Curtis</Player>
+				<Player>Dario</Player>
+				<Player>Garland</Player>
+				<Player>John</Player>
+				<Player>Layton</Player>
+				<Player>Nathan</Player>
+				<Player>Pratt</Player>
+			</GroupA>
+			<GroupB>
+				<Player>Alexandria</Player>
+				<Player>Ashley</Player>
+				<Player>Briana</Player>
+				<Player>Jellie</Player>
+				<Player>Jasmine</Player>
+				<Player>Jenni</Player>
+				<Player>Jessica</Player>
+				<Player>Paris</Player>
+				<Player>Shelby</Player>
+				<Player>Tyler</Player>
+			</GroupB>
+			<GroupBExtra>
+				<Player>Christina</Player>
+			</GroupBExtra>
+		</Players>
+		<Episodes>
+			<Episode Num="1">
+				<Truths>
+					<Truth A="Brandon" B="Jessica" Match="false"/>
+				</Truths>
+				<Ceremony Correct="2">
+					<Pair A="Alex" B="Ellie"/>
+					<Pair A="Anthony" B="Jessica"/>
+					<Pair A="Brandon" B="Christina"/>
+					<Pair A="Curtis" B="Briana"/>
+					<Pair A="Dario" B="Ashley"/>
+					<Pair A="Garland" B="Alexandria"/>
+					<Pair A="John" B="Jasmine"/>
+					<Pair A="Layton" B="Jenni"/>
+					<Pair A="Nathon" B="Shelby"/>
+					<Pair A="Pratt" B="Paris"/>
+				</Ceremony>
+			</Episode>
+		</Episodes>
+	</Season>
+	<Season Num="8">
+		<Players>
+			<Group>
+				<Player>Aasha</Player>
+				<Player>Amber</Player>
+				<Player>Basit</Player>
+				<Player>Brandon</Player>
+				<Player>Danny</Player>
+				<Player>Jasmine</Player>
+				<Player>Jenna</Player>
+				<Player>Jonathan</Player>
+				<Player>Justin</Player>
+				<Player>Kai</Player>
+				<Player>Kari</Player>
+				<Player>Kylie</Player>
+				<Player>Max</Player>
+				<Player>Nour</Player>
+				<Player>Paige</Player>
+				<Player>Remy</Player>
+			</Group>
+		</Players>
+		<Episodes>
+			<Episode Num="1">
+				<Truths>
+					<Truth A="Justin" B="Nour" Match="false"/>
+				</Truths>
+				<Ceremony Correct="2">
+					<Pair A="Aasha" B="Paige"/>
+					<Pair A="Amber" B="Nour"/>
+					<Pair A="Basit" B="Jonathan"/>
+					<Pair A="Brandon" B="Remy"/>
+					<Pair A="Danny" B="Kai"/>
+					<Pair A="Jasmine" B="Jenna"/>
+					<Pair A="Jenna" B="Jasmine"/>
+					<Pair A="Jonathan" B="Basit"/>
+					<Pair A="Justin" B="Max"/>
+					<Pair A="Kai" B="Danny"/>
+					<Pair A="Kari" B="Kylie"/>
+					<Pair A="Kylie" B="Kari"/>
+					<Pair A="Max" B="Justin"/>
+					<Pair A="Nour" B="Amber"/>
+					<Pair A="Paige" B="Aasha"/>
+					<Pair A="Remy" B="Brandon"/>
+				</Ceremony>
+			</Episode>
+			<Episode Num="2">
+				<Truths>
+					<Truth A="Brandon" B="Remy" Match="false"/>
+				</Truths>
+				<Ceremony Correct="2">
+					<Pair A="Aasha" B="Brandon"/>
+					<Pair A="Amber" B="Nour"/>
+					<Pair A="Basit" B="Jonathan"/>
+					<Pair A="Brandon" B="Aasha"/>
+					<Pair A="Danny" B="Remy"/>
+					<Pair A="Jasmine" B="Justin"/>
+					<Pair A="Jenna" B="Kai"/>
+					<Pair A="Jonathan" B="Basit"/>
+					<Pair A="Justin" B="Jasmine"/>
+					<Pair A="Kai" B="Jenna"/>
+					<Pair A="Kari" B="Kylie"/>
+					<Pair A="Kylie" B="Kari"/>
+					<Pair A="Max" B="Paige"/>
+					<Pair A="Nour" B="Amber"/>
+					<Pair A="Paige" B="Max"/>
+					<Pair A="Remy" B="Danny"/>
+				</Ceremony>
+			</Episode>
+		</Episodes>
+	</Season>	
+</Seasons>
