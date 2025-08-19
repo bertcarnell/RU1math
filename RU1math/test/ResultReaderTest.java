@@ -10,7 +10,7 @@ class ResultReaderTest {
 	void testResultReader() {
 		ResultReader rr = new ResultReader(new File("data/results.xml"));
 		
-		assertEquals(1, rr.getSeasons().size());
+		assertEquals(3, rr.getSeasons().size());
 		
 		Season sea = rr.getSeasons().get(0);
 		
